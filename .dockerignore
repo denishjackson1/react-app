@@ -1,0 +1,7 @@
+#All files that not needed in our build
+Dockerfile
+.dockerignore
+.gitignore
+
+#Artifact to be ignord
+node_modules
